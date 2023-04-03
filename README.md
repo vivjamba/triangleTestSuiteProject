@@ -2,6 +2,8 @@
 Example program for a software testing exercise that focuses on unit testing and
 test effectiveness, using code coverage and mutation analysis.
 
+The triangle program was given by CS520 Course teaching staff. The tests were written by us!
+
 Testing
 -------
 Run `./test.sh` to compile and run all test cases.
