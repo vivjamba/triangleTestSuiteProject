@@ -2,7 +2,7 @@
 Example program for a software testing exercise that focuses on unit testing and
 test effectiveness, using code coverage and mutation analysis.
 
-The triangle program was given by CS520 Course teaching staff. The tests were written by us!
+The triangle program (and anything not in the test folder) was given by UMass Amherst CS520 Course teaching staff. The tests were written by us!
 
 Testing
 -------
